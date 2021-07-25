@@ -1,4 +1,4 @@
-locations = {0:  {"desc": "your sitting in front of a coumputer learning python",
+locations = {0:  {"desc": "your sitting in front of a computer doing nothing",
                   "exits":{},
                   "namedExits":{}},
              1:  {"desc":"you standing at the end of a road before a small brice building",
